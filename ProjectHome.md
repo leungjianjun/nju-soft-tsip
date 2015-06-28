@@ -1,0 +1,1 @@
+a teacher and student interaction platform in which ou can share article,picture, and follow others'state,and get the message,check out the bbs and so on.
